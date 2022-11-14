@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/82/98/18/829818485115856e81bd140b57b84803.gif" width="100%" height="50%">
+<img src="https://www.pwc.com/gx/en/issues/analytics/assets/ai-final-robot-animated.gif" width="100%" height="50%">
 <h1 align="center">Hi 👋, I'm Liaqat Ali Software Engineer</h1>
 <h3 align="center">A passionate Full Stack Web & Machine Learning Engineer from Pakistan</h3>
 
